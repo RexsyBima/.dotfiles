@@ -146,6 +146,9 @@ export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:$HOME
 export BROWSER=/mnt/c/Users/ADVAN/AppData/Local/Google/Chrome/Application/chrome.exe
 # export BROWSER='/mnt/c/Windows/explorer.exe'
-export DEEPSEEK_API_KEY=fillapikeyhere
-export OPENAI_KEY=fillapikeyhere
+export DEEPSEEK_API_KEY=API_KEY_HERE
+export OPENAI_KEY=API_KEY_HERE
+export OPENAI_API_KEY=API_KEY_HERE
 export PATH=$PATH:/usr/local/bin
+
+# eval "$(oh-my-posh init zsh --config ~/.cache/oh-my-posh/themes/catppuccin_mocha-minimal.omp.json)"
